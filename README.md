@@ -52,7 +52,7 @@
   
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" />
    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
- <img src="https://skillicons.dev/icons?i=power bi" height="40" alt="power bi logo" />
+ <img src="https://skillicons.dev/icons?i=Microsoft Power BI" height="40" alt="power bi logo" />
   
   <!-- Operating Systems -->
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
