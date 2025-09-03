@@ -52,7 +52,7 @@
   
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" />
    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-<img src="https://skillicons.dev/icons?i=MySQL" height="40" alt="MySQL logo" />
+
  
   
   <!-- Operating Systems -->
@@ -61,7 +61,11 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
   
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
- 
+ <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
+linkedin
 </div>
 
 </div>
