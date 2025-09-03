@@ -58,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
   
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
 </div>
 
 </div>
